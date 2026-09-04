@@ -1,0 +1,9 @@
+[submodule "Python_Modules"]
+	path = Python_Modules
+	url = git@github.com:Luzzie-ux/Python_Modules.git
+[submodule "A_Maze_ing"]
+	path = A_Maze_ing
+	url = git@github.com:Neuza-Nascimento/A_Maze_ing.git
+[submodule "Fly_In"]
+	path = Fly_In
+	url = ./Fly_In
