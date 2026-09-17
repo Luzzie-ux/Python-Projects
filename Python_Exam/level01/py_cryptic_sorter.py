@@ -9,7 +9,7 @@ def cryptic_sorter(strings: list[str]) -> list[str]:
     if n == 0 or not strings[0]:
         return strings
     for i in range(n):
-        for j in range(i + 1, n - i - 1):
+        for j in range(i + 1, n):
             if compare(strings[i], strings[j]):
                 strings[i], strings[j] = strings[j], strings[i]
     return strings
