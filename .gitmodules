@@ -4,3 +4,6 @@
 [submodule "A_Maze_ing"]
 	path = A_Maze_ing
 	url = git@github.com:Neuza-Nascimento/A_Maze_ing.git
+[submodule "Fly-In"]
+	path = Fly-In
+	url = git@github.com:Luzzie-ux/Fly-In.git
